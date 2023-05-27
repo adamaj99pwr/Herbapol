@@ -9,6 +9,6 @@ https://networkx.org/documentation/stable/_modules/networkx/algorithms/threshold
 
 https://www.researchgate.net/publication/281585761_Analysis_of_Information_Diffusion_for_Threshold_Models_on_Arbitrary_Networks
 
-
+https://arxiv.org/pdf/1807.03661.pdf
 
 Check if final cascade size is asymptotically independent from the network structure.
