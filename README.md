@@ -6,3 +6,9 @@ Diffusion on Complex Networks: Simulate diffusion processes on complex networks,
 Influence Maximization: Implement algorithms for influence maximization on graphs, such as the Independent Cascade Model or Linear Threshold Model. Find the optimal set of nodes to influence in order to maximize the spread of information, behaviors, or products in a social network. Analyze the effectiveness of different influence strategies and their dependence on graph properties.
 
 https://networkx.org/documentation/stable/_modules/networkx/algorithms/threshold.html
+
+https://www.researchgate.net/publication/281585761_Analysis_of_Information_Diffusion_for_Threshold_Models_on_Arbitrary_Networks
+
+
+
+Check if final cascade size is asymptotically independent from the network structure.
