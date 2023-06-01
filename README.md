@@ -12,3 +12,6 @@ https://www.researchgate.net/publication/281585761_Analysis_of_Information_Diffu
 https://arxiv.org/pdf/1807.03661.pdf
 
 Check if final cascade size is asymptotically independent from the network structure.
+
+Threshold types: unanimity (all chosen nodes have opposite opinions), byzantine consensus (> 2/3), majority (> 1/2), extreme case (q0=0).
+Potential profile - probability that the system will stay in given opinion balance.
