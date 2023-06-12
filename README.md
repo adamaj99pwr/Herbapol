@@ -15,3 +15,5 @@ Check if final cascade size is asymptotically independent from the network struc
 
 Threshold types: unanimity (all chosen nodes have opposite opinions), byzantine consensus (> 2/3), majority (> 1/2), extreme case (q0=0).
 Potential profile - probability that the system will stay in given opinion balance.
+
+https://www.nature.com/articles/s41598-021-85361-9.pdf
